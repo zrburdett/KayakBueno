@@ -1,0 +1,7 @@
+- Doesn't like editing in Processing, prefers Sublime Text 2
+	- Version 3 is currently out
+	- Must install Processing bundle via https://github.com/b-g/processing-sublime
+		- (WINDOWS) Must edit path environmental variable in system settings (see github readme)
+		- (MAC) Install processing-java within Processing
+		- Enable package control via https://packagecontrol.io/
+	- Select Processing language in bottom right
